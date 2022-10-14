@@ -1,6 +1,7 @@
 # world-population-dataset-exploration
 
-data exploration project in sql 
+exploratory data analysis project done in sql on world population
+a smaller, more straightforward dataset that had been relatively clean when i began
 
-world population dataset from kaggle
+world population dataset found on kaggle
 https://www.kaggle.com/datasets/iamsouravbanerjee/world-population-dataset
