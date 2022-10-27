@@ -12,6 +12,6 @@ https://www.kaggle.com/datasets/iamsouravbanerjee/world-population-dataset
 
 --
 
-data analysis viz in tableau:
+viz in tableau:
 
 https://public.tableau.com/app/profile/brian3741/viz/WorldPopulationEDA_16654380879560/Dashboard1
