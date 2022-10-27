@@ -1,4 +1,4 @@
-#world population dataset exploration
+**world population dataset exploration
 
 exploratory data analysis project on world population done in sql
 
