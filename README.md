@@ -1,4 +1,4 @@
-# world-population-dataset-exploration
+# World Population Exploratory Data Analysis
 
 exploratory data analysis project on world population done in sql
 
